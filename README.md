@@ -5,13 +5,12 @@
 ### Generic Questions
 
 1. Which approach is better: Multiple threads or multiple processes? Why? When?
-1. Which approach is safer from the hardware failure point of view?
-  - 4x processes 
-  - 1x process with 4 threads 
-
 1. When we should use Binary Trees?
 1. Can you enumerate and explain the various types of errors that can occur during the execution of a computer program?
 1. What do you understand by LIFO and FIFO?
+1. Which approach is safer from the hardware failure point of view?
+  - 4x processes 
+  - 1x process with 4 threads 
 
 ### Python
 
