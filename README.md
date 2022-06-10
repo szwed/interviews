@@ -4,14 +4,28 @@
 
 ### Generic Questions
 
+1. Which approach is better: Multiple threads or multiple processes? Why? When?
+1. Which approach is safer from the hardware failure point of view?
+  - 4x processes 
+  - 1x process with 4 threads 
+
+1. When we should use Binary Trees?
+1. Can you enumerate and explain the various types of errors that can occur during the execution of a computer program?
+1. What do you understand by LIFO and FIFO?
+
 ### Python
 
 #### Questions
 
 1. What is the difference between list and tuples in Python?
 1. What type of language is python? Programming or scripting?
+1. What is the difference between .py and .pyc files?
 1. Mention the differences between Django, Pyramid and Flask.
 1. Is python numpy better than lists? Why?
+1. What does `[::-1}` do?
+1. How memory management is done in Python?
+1. How do you debug a Python program?
+1. What is `__init__()` in Python?
 
 #### Coding
 
