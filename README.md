@@ -20,7 +20,7 @@
 1. What type of language is python? Programming or scripting?
 1. What is the difference between .py and .pyc files?
 1. Mention the differences between Django, Pyramid and Flask.
-1. Is python numpy better than lists? Why?
+1. Is python numpy better than lists? Why? When?
 1. What does `[::-1}` do?
 1. How memory management is done in Python?
 1. How do you debug a Python program?
